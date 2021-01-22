@@ -296,7 +296,7 @@ public class EmployeeSignUp_Manager extends javax.swing.JFrame {
         int Row = EMPTable.getSelectedRow();
         TableModel model = EMPTable.getModel();
         String selection = EMPTable.getModel().getValueAt(Row, 0).toString();
-        String sl2 = "SELECT * FROM employee WHERE EmployeeID = " + selection;
+        String sl2 = "SELECT * FROM employee WHERE EmployeeID = '" + selection + "'";
 
         try {
             con = DriverManager.getConnection("jdbc:mysql://localhost:3306/database_rustrepair", "root", "");
