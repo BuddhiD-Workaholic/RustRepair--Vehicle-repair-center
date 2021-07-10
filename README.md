@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
 
-RustRepaire is a Vehicle restoration and repair center. This project is to automate the manual process of RustRepaire. Implement a Object Oriented Programing(Java) Swing Application to automate the business requirements. We intergrated emial configuration with Sun emails.
+RustRepaire is a Vehicle restoration and repair center. This project is to automate the manual process of RustRepaire. Implement a Object Oriented Programing(Java) Swing Application to automate the business requirements. We intergrated email configuration with Sun emails.
 
 ------------------------------------------------------------------------------------
 
